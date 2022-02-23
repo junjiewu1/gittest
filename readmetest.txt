@@ -6,3 +6,7 @@ Git is free software.
 Creating a new branch is quick.
 哈哈哈哈
 嘿嘿嘿
+呵呵呵呵呵呵呵呵
+喂喂喂
+测试一下合并
+米西米西
